@@ -6,7 +6,6 @@ TERM PAPER: Trends in Natural Processing
 
 PROFESSOR: Dr. Simon Werner
 
-SUBMITTED BY: Gunasundar Ram Chandrasekhar Sholingaram (1808515 - s2guchan@uni-trier.de)
-              && Samara Simha Reddy Devarapally (1814977 - s2sadeva@uni-trier.de)
+SUBMITTED BY: Gunasundar Ram Chandrasekhar Sholingaram (1808515 - s2guchan@uni-trier.de) || Samara Simha Reddy Devarapally (1814977 - s2sadeva@uni-trier.de)
 
 Summer Semester 2025
